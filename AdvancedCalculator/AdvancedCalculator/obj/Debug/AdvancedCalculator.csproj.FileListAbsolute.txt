@@ -1,0 +1,16 @@
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csprojResolveAssemblyReference.cache
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Standard.resources
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Properties.Resources.resources
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.GenerateResource.Cache
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Fibonacci.resources
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Length.resources
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Matrix.resources
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Programmer.resources
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Scientific.resources
+c:\users\master\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Temp.resources
